@@ -1,0 +1,31 @@
+Food,Indian,Spicy,Sweet,Street,Veg,Hot/Cold,Meal Type,Prep Type,Main Ingredient,Taste,Time
+Pani Puri,Yes,Yes,No,Yes,Yes,Cold,Snack,Raw,Flour,Tangy,Fast
+Bhel Puri,Yes,Medium,No,Yes,Yes,Cold,Snack,Raw,Rice,Tangy,Fast
+Vada Pav,Yes,Yes,No,Yes,Yes,Hot,Snack,Fried,Potato,Savory,Fast
+Dosa,Yes,Medium,No,Yes,Yes,Hot,Breakfast,Fried,Rice,Savory,Medium
+Idli,Yes,No,No,No,Yes,Hot,Breakfast,Steamed,Rice,Savory,Medium
+Samosa,Yes,Yes,No,Yes,Yes,Hot,Snack,Fried,Potato,Savory,Fast
+Paneer Butter Masala,Yes,Medium,No,No,Yes,Hot,Main,Cooked,Paneer,Savory,Medium
+Biryani,Yes,Yes,No,No,No,Hot,Main,Cooked,Rice,Spicy,Long
+Pizza,No,Medium,No,No,No,Hot,Main,Baked,Bread,Savory,Medium
+Burger,No,Medium,No,Yes,No,Hot,Snack,Fried,Bread,Savory,Fast
+French Fries,No,No,No,Yes,Yes,Hot,Snack,Fried,Potato,Savory,Fast
+Pasta,No,No,No,No,Yes,Hot,Main,Boiled,Wheat,Savory,Medium
+Noodles,No,Medium,No,Yes,Yes,Hot,Main,Stir-fried,Wheat,Savory,Fast
+Fried Rice,No,Medium,No,Yes,Yes,Hot,Main,Fried,Rice,Savory,Fast
+Cake,No,No,Yes,No,Yes,Cold,Dessert,Baked,Flour,Sweet,Long
+Ice Cream,No,No,Yes,Yes,Yes,Cold,Dessert,Frozen,Dairy,Sweet,Fast
+Gulab Jamun,Yes,No,Yes,No,Yes,Hot,Dessert,Fried,Milk,Sweet,Medium
+Jalebi,Yes,No,Yes,Yes,Yes,Hot,Dessert,Fried,Flour,Sweet,Fast
+Chocolate,No,No,Yes,Yes,Yes,Cold,Dessert,Processed,Cocoa,Sweet,Fast
+Sandwich,No,No,No,Yes,Yes,Cold,Snack,Raw,Bread,Savory,Fast
+Omelette,No,No,No,No,No,Hot,Breakfast,Fried,Egg,Savory,Fast
+Poha,Yes,No,No,No,Yes,Hot,Breakfast,Cooked,Rice,Savory,Fast
+Upma,Yes,No,No,No,Yes,Hot,Breakfast,Cooked,Semolina,Savory,Fast
+Pav Bhaji,Yes,Medium,No,Yes,Yes,Hot,Main,Cooked,Vegetables,Spicy,Medium
+Chole Bhature,Yes,Yes,No,No,Yes,Hot,Main,Fried,Wheat,Spicy,Medium
+Tacos,No,Medium,No,Yes,No,Hot,Snack,Assembled,Corn,Savory,Fast
+Donut,No,No,Yes,Yes,Yes,Cold,Dessert,Fried,Flour,Sweet,Fast
+Milkshake,No,No,Yes,Yes,Yes,Cold,Drink,Blended,Milk,Sweet,Fast
+Soup,No,No,No,No,Yes,Hot,Starter,Boiled,Vegetables,Savory,Medium
+Salad,No,No,No,No,Yes,Cold,Starter,Raw,Vegetables,Fresh,Fast
